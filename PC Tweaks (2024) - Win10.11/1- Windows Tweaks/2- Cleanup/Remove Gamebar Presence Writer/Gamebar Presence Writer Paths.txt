@@ -1,0 +1,18 @@
+C:\Windows\System32\GameBarPresenceWriter.exe
+
+1. Go to the path C:\Windows\System32 in your file explorer.
+2. Locate the file named GameBarPresenceWriter.exe.
+3. Right-click on the GameBarPresenceWriter.exe file and select "Properties" from the context menu.
+4. In the Properties window, click on the "Security" tab.
+5. Click on the "Advanced" button.
+6. In the Advanced Security Settings window, click on the "Change permissions" button.
+7. Next to "TrustedInstaller," click on the "Change" link.
+8. In the Select User or Group window, click on the "Advanced" button.
+9. In the Advanced window, click on the "Find Now" button to search for your account name.
+10. Locate and select your account name from the search results, then click "OK."
+11. Back in the Advanced Security Settings window, click on the "Apply" button and then click "OK."
+12. Click on the "Advanced" button once again.
+13. Under the "Permissions" tab, click on the "Change permissions" button.
+14. In the Change Permissions window, make sure the "Enable inheritance" option is selected.
+15. Click on the "Apply" button and then click "OK" to close the windows.
+16. Right-click on the GameBarPresenceWriter.exe file and select "Delete" from the context menu.

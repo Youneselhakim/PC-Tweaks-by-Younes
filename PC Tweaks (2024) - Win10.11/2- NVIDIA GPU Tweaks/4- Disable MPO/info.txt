@@ -1,0 +1,2 @@
+The MPO (Multiplane Overlay) is a feature developed by Nvidia to support multi-screen scenarios where the gaming or display output is extendable across multiple monitors.
+After disabling MPO, you may experience improvements in desktop app flickering or stuttering issues.

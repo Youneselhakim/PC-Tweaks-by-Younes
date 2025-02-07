@@ -1,0 +1,4 @@
+High-bandwidth Digital Content Protection (HDCP). This is essentially a copy protection system designed to prevent unauthorized copying of digital audio and video content. It works by encrypting the signal between your NVIDIA GPU and your monitor or display through DisplayPort, DVI, or HDMI connections.
+
+Disable HDCP: for lower latency (delay). However, this benefit might not be noticeable for everyone, plus you can't stream copyrighted videos like Netflix and Amazon prime gaming.
+HDCP enabled for: Normal usage, especially if you stream content or watch copyrighted videos in high definition.

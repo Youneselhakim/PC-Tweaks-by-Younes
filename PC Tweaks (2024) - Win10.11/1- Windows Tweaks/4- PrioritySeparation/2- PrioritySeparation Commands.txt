@@ -1,0 +1,4 @@
+reg add "HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\PriorityControl" /v "Win32PrioritySeparation" /t REG_SZ /d "2a" /f
+or 
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\PriorityControl]
+"Win32PrioritySeparation"="2a"

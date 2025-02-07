@@ -1,0 +1,2 @@
+run powershell as an admin:
+irm christitus.com/win | iex

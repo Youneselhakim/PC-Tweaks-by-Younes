@@ -1,0 +1,12 @@
+Windows 11 has a built-in backdoor that forces some of the optimizations to stop working. Dcontrol stops working and Defender turns on. 
+Windows turns updates on and tries to update, leaving a red update symbol. Although with Microsoft Edge reinstalling.
+
+As off right now I'm not sure how to fix this problem, although I know how to correct it for a couple of days untill it starts to force update again.
+
+1. Step reenable/rerun 1- Win 10 Disable Services, 2- Windows Service Control, 3- Extra unneeded Services in order as admin.
+2. Go to 4- cleanup>Remove Microsoft Edge> And run both 1- Remove Edge (main) and 2- Remove Edge (Backup) as admin.
+3. Go to 8- NSudo>NSudo_8.2_All_Components>NSudo Launcher>x64>NSudoLG.exe, once opened as admin check/click enable all privileges then browse C:\Windows\System32 then find taskschd.msc and open/run it.
+Now right click Task Scheduler Library folder, find any Mircosoft edges tasks and disable then delete them, then click the arrow on the left of the Task Scheduler Library folder, then the arrow by Mircosoft, then arrow by windows.
+Once in windows find the "UpdateOrchestrator" folder then Disable everything then delete everything,
+4. Open dcontrol and make sure its working/on
+5. Restart your pc
