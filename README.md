@@ -1,2 +1,2 @@
-# pc-tweaks-by-younes2
-pc tweaks by younes2
+# PC-Tweaks-by-Younes
+pc tweaks by younes
